@@ -10,8 +10,8 @@ effective solutions to help you overcome it.
 ## Introduction
 
 To begin the mentoring journey, you will explore some foundational concepts of software development:
-- [Software Architecture Cheat Sheet](https://it-skills-exchange.github.io/jacademy-pro/ "Software Architecture Cheat Sheet");
-- [Programming Principles](https://it-skills-exchange.github.io/jacademy-pro/ "Programming Principles").
+- [Software Architecture Cheat Sheet](https://it-skills-exchange.github.io/jacademy-pro-intro/ "Software Architecture Cheat Sheet");
+- [Programming Principles](https://it-skills-exchange.github.io/jacademy-pro-intro/ "Programming Principles").
 
 These concepts are essential for building robust, scalable, and maintainable software systems.
 To help you grasp these concepts, you will use a cheat sheet that summarizes the key ideas and best practices in these areas.
